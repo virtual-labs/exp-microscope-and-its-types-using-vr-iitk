@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Magnifying power (m) of simple microscope is (where D is the least distance of distinct vision for humans, and F if the focal length of the convex lens):",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "D/F",
+        "b": "F/D",
+        "c": "(F.D)/((F+D))",
+        "d": "D/F+1"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.The magnifying power (m) of compound microscope with an objective and eyepiece is (where D is the least distance of distinct vision, L is the length of the microscope tube, fo is the focal length of the objective lens, and fe is the focal length of the eyepiece):",
+      "answers": {
+        "a": "m=DL/〖f_o f〗_e ",
+        "b": "m=(Df_e)/(Lf_0 )",
+        "c": "m=(Lf_e)/(Df_0 )",
+        "d": "m=〖f_o f〗_e/DL"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,62 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3.In a phase contrast microscope, phase shift DOES NOT occur in the samples due to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "difference in the thickness of region",
+        "b": "refractive index of the organelle",
+        "c": "orientation of the crystalline material",
+        "d": "homogeneity of the constituent phase/composition"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Due to dark background, a very high contrast is obtained in which microscope:?",
+      "answers": {
+        "a": "Compound Microscope",
+        "b": "Phase Contrast Microscope",
+        "c": "Fluorescence Microscope",
+        "d": "Stereo Microscope"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }{
+      "question": "5.A 3-dimensional appearance of fractured samples can be observed in which of the following microscope??",
+      "answers": {
+        "a": "Compound Microscope",
+        "b": "Phase Contrast Microscope",
+        "c": "Fluorescence Microscope",
+        "d": "Stereo Microscope"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6.Which microscope permits dye-staining for identification of living/dead cells and various organelles:?",
+      "answers": {
+        "a": "Compound Microscope",
+        "b": "Phase Contrast Microscope",
+        "c": "Fluorescence Microscope",
+        "d": "Stereo Microscope"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
