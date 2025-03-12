@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The wavelength of visible light is in the range of:?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "400 – 700 pm",
+        "b": "400 – 700 nm",
+        "c": "400 – 700 m",
+        "d": "400 – 700 mm"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The limit of resolution that human eye can distinguish is approximately:?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "100 nm",
+        "b": "10 m",
+        "c": "100 m",
+        "d": "1 mm"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +33,58 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The least distance of distinct vision where human eye can clearly observe an object without strain is:?",
+      "answers": {
+        "a": "25 m",
+        "b": "250 m",
+        "c": "25 mm",
+        "d": "250 mm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The following type of microscope uses mirrors as source of light from ambience (select two):?",
+      "answers": {
+        "a": "Simple microscope",
+        "b": "Compound microscope",
+        "c": "Phase Contrast Microscope",
+        "d": "Fluorescence Microscope",
+        "e": "Stereo Microscope"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a,e",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The formula for the convex lens (with focal length ‘f’) shown with object at a distance ‘u’ and image at distance ‘v’ is:?",
+      "answers": {
+        "a": "1/v+1/u=1/f",
+        "b": "1/v-1/u=1/f",
+        "c": "1/u-1/v=1/f",
+        "d": "uv/(u+v)=1/f"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
