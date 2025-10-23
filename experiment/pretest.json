@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The wavelength of visible light is in the range of:",
+      "question": "1. The wavelength of visible light is in the range of :",
       "answers": {
         "a": "400 – 700 pm",
         "b": "400 – 700 nm",
@@ -10,16 +10,16 @@
         "d": "400 – 700 mm"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "2. The limit of resolution that human eye can distinguish is approximately:",
+      "question": "2. The limit of resolution that human eye can distinguish is approximately :",
       "answers": {
         "a": "100 nm",
         "b": "10 µm",
@@ -27,16 +27,16 @@
         "d": "1 mm"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "3. The least distance of distinct vision where human eye can clearly observe an object without strain is:",
+      "question": "3. The least distance of distinct vision where human eye can clearly observe an object without strain is :",
       "answers": {
         "a": "25 µm",
         "b": "250 µm",
@@ -44,16 +44,16 @@
         "d": "250 mm"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "4. The following type of microscope uses mirrors as source of light from ambience (select two):",
+      "question": "4. The following type of microscope uses mirrors as source of light from ambience (select two) :",
       "answers": {
         "a": "Simple microscope",
         "b": "Compound microscope",
@@ -62,16 +62,16 @@
         "e": "Stereo Microscope"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2", 
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation", 
+        "d": "Explanation"
       },
       "correctAnswer": ["a", "e"],
       "difficulty": "beginner"
     },
     {
-      "question": "5. The formula for the convex lens (with focal length ‘f’) shown with object at a distance ‘u’ and image at distance ‘v’ is: <br><img src='images/pretest_5.png'>",
+      "question": "5. The formula for the convex lens (with focal length ‘f’) shown with object at a distance ‘u’ and image at distance ‘v’ is : <br><img src='images/pretest_5.png'>",
       "answers": {
         "a": "1/v+1/u=1/f",
         "b": "1/v-1/u=1/f",
@@ -79,10 +79,10 @@
         "d": "uv/(u+v)=1/f"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
