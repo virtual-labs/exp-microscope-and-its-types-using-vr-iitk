@@ -33,8 +33,8 @@ Magnifying power of the compound microscope is the multiplier of the magnificati
 where, <br>
 •	D is the least distance of distinct vision <br>
 •	L is the length of the microscope tube <br>
-•	fo is the focal length of the objective lens <br>
-•	fe is the focal length of the eyepiece <br><br>
+•	f<sub>o</sub> is the focal length of the objective lens <br>
+•	f<sub>e</sub> is the focal length of the eyepiece <br><br>
 
 <b>3. Phase Contrast Microscope : </b><br>
 
