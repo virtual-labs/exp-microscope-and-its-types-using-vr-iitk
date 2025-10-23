@@ -19,12 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. The magnifying power (m) of compound microscope with an objective and eyepiece is (where D is the least distance of distinct vision, L is the length of the microscope tube, fo is the focal length of the objective lens, and fe is the focal length of the eyepiece):",
+      "question": "2. The magnifying power (m) of compound microscope with an objective and eyepiece is (where D is the least distance of distinct vision, L is the length of the microscope tube, f<sub>o</sub> is the focal length of the objective lens, and f<sub>e</sub> is the focal length of the eyepiece):",
       "answers": {
-        "a": "m = fo/fe",
-        "b": "m = Dfe/Lfo",
-        "c": "m = Lfe/Dfo",
-        "d": "m = fofe/DL"
+        "a": "m = DL/f<sub>o</sub>f<sub>e</sub>",
+        "b": "m = Df<sub>e</sub>/Lf<sub>o</sub>",
+        "c": "m = Lf<sub>e</sub>/Df<sub>o</sub>",
+        "d": "m = f<sub>o</sub>f<sub>e</sub>/DL"
       },
       "explanations": {
         "a": "Explanation 1",
