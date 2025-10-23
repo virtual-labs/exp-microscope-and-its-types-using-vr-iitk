@@ -31,7 +31,7 @@ Magnifying power of the compound microscope is the multiplier of the magnificati
 <img src="images/image_4.png"><br>
 
 where, <br>
-•	D is the least distance of distinct vision <br>
+•	D is the least distance of distinct vision  (=250 mm for humans) <br>
 •	L is the length of the microscope tube <br>
 •	f<sub>o</sub> is the focal length of the objective lens <br>
 •	f<sub>e</sub> is the focal length of the eyepiece <br><br>
@@ -44,7 +44,7 @@ Phase contrast microscope, Figure 4, utilizes small phase shift (say arising fro
 
 Figure 4: Phase contrast microscope utilizes amplifying the phase differences arising from the refractive index changes and converting that to change in the light intensity to result better contrast in the images.<br><br>
 
-Phase contrast microscope consists of condenser annulus diaphragm that allows narrow hollow cone of light to pass through (via light-absorbing central circular disc) and a transparent periphery, and the phase plate (placed in the back focal plane of objective lens) allows selective passage of light through conjugate area (where the bright condenser annulus is focused), and restricted passage of light through complementary area (that is coated with light-retarding magnesium fluoride material). <br><br>
+Phase contrast microscope consists of <b>condenser annulus diaphragm</b> that allows narrow hollow cone of light to pass through (via light-absorbing central circular disc) and a transparent periphery, and the <b>phase plate</b> (placed in the back focal plane of objective lens) allows selective passage of light through conjugate area (where the bright condenser annulus is focused), and restricted passage of light through complementary area (that is coated with light-retarding magnesium fluoride material). <br><br>
 
 <b>4. Fluorescence Microscope : </b><br>
 
@@ -63,7 +63,7 @@ Figure 5: Fluorescence microscope where fluorophore dye-staining allows identifi
 <b>dichroic mirror</b> reflects high energy light (shorter wavelength) traversed through excitation filter at an angle of 45 to fall on to the sample, but permits passage of high energy wavelength (lower energy wavelength) generated from fluorophore in stained sample on to the emission filter.  <br>
 lenses and other parts of compound microscope are also present in a fluorescence microscope. <br><br>
 
-Fluorescence microscope may utilize same light path (epi-fluorescence) or utilize spatial pinhole to block out-of-focus light to develop 3-D image (confocal microscope), or utilize multiple phonon for excitations of fluorophore to result 3-D image (multiphoton microscope) or even imaging in in aqueous environment near to solid surface with high refractive index to result high-resolution better contrast images (total internal reflection fluorescence microscope).<br><br>
+Fluorescence microscope may utilize same light path <b>(epi-fluorescence)</b> or utilize spatial pinhole to block out-of-focus light to develop 3-D image <b>(confocal microscope)</b>, or utilize multiple phonon for excitations of fluorophore to result 3-D image <b>(multiphoton microscope)</b> or even imaging in in aqueous environment near to solid surface with high refractive index to result high-resolution better contrast images <b>(total internal reflection fluorescence microscope)</b>.<br><br>
 
 <b>5. Stereo Microscope :</b><br>
 
