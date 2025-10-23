@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Magnifying power (m) of simple microscope is (where D is the least distance of distinct vision for humans, and F if the focal length of the convex lens):",
+      "question": "1. Magnifying power (m) of simple microscope is (where D is the least distance of distinct vision for humans, and F if the focal length of the convex lens) :",
       "answers": {
         "a": "D/F",
         "b": "F/D",
@@ -10,16 +10,16 @@
         "d": "(D/F)+1"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "2. The magnifying power (m) of compound microscope with an objective and eyepiece is (where D is the least distance of distinct vision, L is the length of the microscope tube, f<sub>o</sub> is the focal length of the objective lens, and f<sub>e</sub> is the focal length of the eyepiece):",
+      "question": "2. The magnifying power (m) of compound microscope with an objective and eyepiece is (where D is the least distance of distinct vision, L is the length of the microscope tube, f<sub>o</sub> is the focal length of the objective lens, and f<sub>e</sub> is the focal length of the eyepiece) :",
       "answers": {
         "a": "m = DL/f<sub>o</sub>f<sub>e</sub>",
         "b": "m = Df<sub>e</sub>/Lf<sub>o</sub>",
@@ -27,16 +27,16 @@
         "d": "m = f<sub>o</sub>f<sub>e</sub>/DL"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "3. In a phase contrast microscope, phase shift DOES NOT occur in the samples due to:",
+      "question": "3. In a phase contrast microscope, phase shift DOES NOT occur in the samples due to :",
       "answers": {
         "a": "difference in the thickness of region",
         "b": "refractive index of the organelle",
@@ -44,16 +44,16 @@
         "d": "homogeneity of the constituent phase/composition"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "4. Due to dark background, a very high contrast is obtained in which microscope:",
+      "question": "4. Due to dark background, a very high contrast is obtained in which microscope :",
       "answers": {
         "a": "Compound Microscope",
         "b": "Phase Contrast Microscope",
@@ -61,16 +61,16 @@
         "d": "Stereo Microscope"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "5. A 3-dimensional appearance of fractured samples can be observed in which of the following microscope?",
+      "question": "5. A 3-dimensional appearance of fractured samples can be observed in which of the following microscope ?",
       "answers": {
         "a": "Compound Microscope",
         "b": "Phase Contrast Microscope",
@@ -78,16 +78,16 @@
         "d": "Stereo Microscope"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "6. Which microscope permits dye-staining for identification of living/dead cells and various organelles:",
+      "question": "6. Which microscope permits dye-staining for identification of living/dead cells and various organelles :",
       "answers": {
         "a": "Compound Microscope",
         "b": "Phase Contrast Microscope",
@@ -95,10 +95,10 @@
         "d": "Stereo Microscope"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
