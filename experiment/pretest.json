@@ -53,13 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. The following type of microscope uses mirrors as source of light from ambience (select two) :",
+      "question": "4. The following type of microscope uses mirrors as source of light from ambience :",
       "answers": {
         "a": "Simple microscope",
         "b": "Compound microscope",
         "c": "Phase Contrast Microscope",
-        "d": "Fluorescence Microscope",
-        "e": "Stereo Microscope"
+        "d": "Fluorescence Microscope"
       },
       "explanations": {
         "a": "Explanation",
