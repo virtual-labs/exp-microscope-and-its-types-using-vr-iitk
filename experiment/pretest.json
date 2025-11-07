@@ -66,7 +66,7 @@
         "c": "Explanation", 
         "d": "Explanation"
       },
-      "correctAnswer": ["a", "e"],
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
