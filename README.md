@@ -4,7 +4,7 @@
 <b>Discipline | <b>Physical Science 
 :--|:--|
 <b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> 
+<b> Experiment|     <b> Understanding of microscope and its types using VR
 ### About the Experiment 
 
 
