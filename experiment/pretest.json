@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The wavelength of visible light is in the range of :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "400 – 700 pm",
+        "b": "400 – 700 nm",
+        "c": "400 – 700 µm",
+        "d": "400 – 700 mm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Picometers (pm) are much smaller than the wavelength range of visible light.",
+    "b": "Correct. Visible light has wavelengths approximately between 400 and 700 nanometers (nm), which can be detected by the human eye.",
+    "c": "Incorrect. Micrometers (µm) are larger than the visible light wavelength range and correspond mainly to infrared radiation.",
+    "d": "Incorrect. Millimeters (mm) are far larger than visible light wavelengths and fall within the microwave region."
+  },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The limit of resolution that human eye can distinguish is approximately :",
+      "answers": {
+        "a": "100 nm",
+        "b": "10 µm",
+        "c": "100 µm",
+        "d": "1 mm"
       },
+      "explanations": {
+        "a": "Incorrect. 100 nm is much smaller than the resolving power of the human eye and cannot be distinguished without a microscope.",
+    "b": "Incorrect. 10 µm is below the typical resolution limit of the human eye.",
+    "c": "Correct. The human eye can distinguish details approximately 100 µm (0.1 mm) apart under normal viewing conditions.",
+    "d": "Incorrect. 1 mm is much larger than the minimum distance that the human eye can resolve."
+  },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The least distance of distinct vision where human eye can clearly observe an object without strain is :",
+      "answers": {
+        "a": "25 µm",
+        "b": "250 µm",
+        "c": "25 mm",
+        "d": "250 mm"
+      },
+      "explanations": {
+        "a": "Incorrect. 25 µm is far smaller than the least distance of distinct vision of the human eye.",
+    "b": "Incorrect. 250 µm is much smaller than the normal near point distance of the eye.",
+    "c": "Incorrect. 25 mm (2.5 cm) is too close for comfortable viewing by the human eye.",
+    "d": "Correct. The least distance of distinct vision for a normal human eye is approximately 250 mm (25 cm), allowing clear observation without strain."
+  },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The following type of microscope uses mirrors as source of light from ambience :",
+      "answers": {
+        "a": "Simple microscope",
+        "b": "Compound microscope",
+        "c": "Phase Contrast Microscope",
+        "d": "Fluorescence Microscope"
+      },
+      "explanations": {
+        "a": "Correct. A simple microscope often uses a mirror to reflect ambient light onto the specimen for observation.",
+    "b": "Incorrect. A compound microscope may use mirrors, but it is not typically identified by this feature alone.",
+    "c": "Incorrect. A phase contrast microscope uses specialized optical components and illumination systems.",
+    "d": "Incorrect. A fluorescence microscope uses a dedicated light source to excite fluorescent materials."
+  },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "5. The formula for the convex lens (with focal length ‘f’) shown with object at a distance ‘u’ and image at distance ‘v’ is : <br><img src='images/pretest_5.png'>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1/v+1/u=1/f",
+        "b": "1/v-1/u=1/f",
+        "c": "1/u-1/v=1/f",
+        "d": "uv/(u+v)=1/f"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+        "a": "Incorrect. This equation does not follow the standard sign convention used for a convex lens.",
+    "b": "Correct. According to the lens formula and Cartesian sign convention, the relation for a convex lens is 1/v - 1/u = 1/f.",
+    "c": "Incorrect. The signs are reversed and do not match the standard convex lens formula.",
+    "d": "Incorrect. Rearranging the lens formula gives uv/(u-v) = f, not uv/(u+v) = 1/f."
+  },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

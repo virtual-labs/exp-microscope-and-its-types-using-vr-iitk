@@ -2,36 +2,104 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Magnifying power (m) of simple microscope is (where D is the least distance of distinct vision for humans, and F if the focal length of the convex lens) :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "D/F",
+        "b": "F/D",
+        "c": "(F.D)/((F+D))",
+        "d": "(D/F)+1"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. D/F is the magnifying power when the final image is formed at infinity.",
+    "b": "Incorrect. The magnifying power is greater than 1 and is not given by F/D.",
+    "c": "Incorrect. This expression is not the formula for the magnifying power of a simple microscope.",
+    "d": "Correct. When the final image is formed at the least distance of distinct vision (D), the magnifying power of a simple microscope is (D/F) + 1."
+  },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The magnifying power (m) of compound microscope with an objective and eyepiece is (where D is the least distance of distinct vision, L is the length of the microscope tube, f<sub>o</sub> is the focal length of the objective lens, and f<sub>e</sub> is the focal length of the eyepiece) :",
+      "answers": {
+        "a": "m = DL/f<sub>o</sub>f<sub>e</sub>",
+        "b": "m = Df<sub>e</sub>/Lf<sub>o</sub>",
+        "c": "m = Lf<sub>e</sub>/Df<sub>o</sub>",
+        "d": "m = f<sub>o</sub>f<sub>e</sub>/DL"
       },
+      "explanations": {
+        "a": "Correct. The magnifying power of a compound microscope is approximately m = (L/f<sub>o</sub>) × (D/f<sub>e</sub>) = DL/(f<sub>o</sub>f<sub>e</sub>).",
+    "b": "Incorrect. The positions of L and fe are interchanged, giving an incorrect expression.",
+    "c": "Incorrect. This formula does not represent the magnifying power of a compound microscope.",
+    "d": "Incorrect. This is the reciprocal of the correct formula."
+  },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. In a phase contrast microscope, phase shift DOES NOT occur in the samples due to :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "difference in the thickness of region",
+        "b": "refractive index of the organelle",
+        "c": "orientation of the crystalline material",
+        "d": "homogeneity of the constituent phase/composition"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Differences in sample thickness can cause phase shifts in transmitted light.",
+    "b": "Incorrect. Variations in refractive index of cellular structures or organelles produce phase shifts.",
+    "c": "Incorrect. The orientation of crystalline materials can affect the phase of transmitted light.",
+    "d": "Correct. A homogeneous sample with uniform composition and refractive index does not produce phase differences and therefore does not cause phase shift."
+  },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Due to dark background, a very high contrast is obtained in which microscope :",
+      "answers": {
+        "a": "Compound Microscope",
+        "b": "Phase Contrast Microscope",
+        "c": "Fluorescence Microscope",
+        "d": "Stereo Microscope"
       },
+      "explanations": {
+        "a": "Incorrect. A compound microscope uses transmitted light and does not typically produce a dark background.",
+        "b": "Incorrect. A phase contrast microscope enhances contrast through phase differences but does not create a dark background.",
+        "c": "Correct. In a fluorescence microscope, the background appears dark while the fluorescent specimen emits bright light, resulting in very high contrast.",
+        "d": "Incorrect. A stereo microscope provides a three-dimensional view but does not produce a dark background."
+  },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. A 3-dimensional appearance of fractured samples can be observed in which of the following microscope ?",
+      "answers": {
+        "a": "Compound Microscope",
+        "b": "Phase Contrast Microscope",
+        "c": "Fluorescence Microscope",
+        "d": "Stereo Microscope"
+      },
+      "explanations": {
+        "a": "Incorrect. A compound microscope provides a two-dimensional image of the specimen.",
+    "b": "Incorrect. A phase contrast microscope enhances contrast in transparent specimens but does not provide a true 3D appearance.",
+    "c": "Incorrect. A fluorescence microscope is used to visualize fluorescently labeled structures, not for 3D observation of fractured surfaces.",
+    "d": "Correct. A stereo microscope provides a three-dimensional view of the specimen, making it suitable for observing fractured surfaces and surface features."
+  },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which microscope permits dye-staining for identification of living/dead cells and various organelles :",
+      "answers": {
+        "a": "Compound Microscope",
+        "b": "Phase Contrast Microscope",
+        "c": "Fluorescence Microscope",
+        "d": "Stereo Microscope"
+      },
+      "explanations": {
+        "a": "Incorrect. A compound microscope can use stains, but it is not specifically designed for identifying living/dead cells through fluorescent dyes.",
+    "b": "Incorrect. A phase contrast microscope is mainly used for observing unstained living cells.",
+    "c": "Correct. A fluorescence microscope uses fluorescent dyes to identify living and dead cells and to visualize specific organelles with high contrast.",
+    "d": "Incorrect. A stereo microscope is used for observing surface features and does not typically use fluorescent dye staining."
+  },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
